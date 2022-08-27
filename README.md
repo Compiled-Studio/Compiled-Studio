@@ -1,4 +1,5 @@
 # Hello! I am Not-So-EZ and yeah
+## also I lIke Blue 😃
 ![](https://komarev.com/ghpvc/?username=Not-So-EZ)
 
 ## 🌐 Socials
