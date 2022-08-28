@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm I am Not-So-EZ and yeah</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=not-so-ez&label=Profile%20views&color=0e75b6&style=flat" alt="not-so-ez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=not-so-ez&label=Profile%20views&color=0e75b6&style=flat-square&logo=appveyor" alt="not-so-ez" /> </p>
 
 - 🔭 I’m currently working on [nothinglolo](youtube.com)
 
