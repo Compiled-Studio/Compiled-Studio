@@ -42,8 +42,10 @@
 <!--blender--><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 
 <!--MostUsedlang--><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Casual-Programer
-&show_icons=true&locale=en&layout=compact&theme=dark" alt="not-so-ez" /></p>
+&show_icons=true&locale=en&layout=compact&theme=dark" alt="Casual-Programer
+" /></p>
 
-<!--stats--><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=not-so-ez&show_icons=true&locale=en&theme=dark" alt="Casual-Programer
+<!--stats--><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Casual-Programer
+&show_icons=true&locale=en&theme=dark" alt="Casual-Programer
 " /></p>
 
