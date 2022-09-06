@@ -41,7 +41,7 @@
   
 <!--blender--><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Casual-Programer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Casual-Programer&theme=dark)
 
 <!--stats--><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Casual-Programer&show_icons=true&locale=en&theme=dark" alt="Casual-Programer" /></p>
 
