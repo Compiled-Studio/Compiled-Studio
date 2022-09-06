@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm I am a Casual Programer and yeah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=not-so-ez&label=Profile%20views&color=0e75b6&style=flat-square&logo=appveyor" alt="not-so-ez" /> </p>
 
-- 🔭 I’m currently working on [nothinglolo](youtube.com)
+- 🔭 I’m currently working on [nothinglolo(https://www.youtube.com/channel/UC2HFLq7QM6qbBZ8Q2wzWyBw)]
 
 - ⚡ Fun fact **I like blue (alot)**
 
