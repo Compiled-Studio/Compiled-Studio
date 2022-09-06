@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!--yt--><a href="https://www.youtube.com/c/youtube name" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC2HFLq7QM6qbBZ8Q2wzWyBw" height="30" width="40" /></a>
+<!--yt--><a href="https://www.youtube.com/channel/UC2HFLq7QM6qbBZ8Q2wzWyBw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC2HFLq7QM6qbBZ8Q2wzWyBw" height="30" width="40" /></a>
   
 <!--discord--><a href="https://discord.gg/xMqhVgHK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xMqhVgHK" height="30" width="40" /></a>
 </p>
