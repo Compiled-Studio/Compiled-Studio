@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I am a Casual Programer and yeah</h1>
+<h1 align="center">Hi 👋, I'm I am a Script Generator and yeah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=not-so-ez&label=Profile%20views&color=0e75b6&style=flat-square&logo=appveyor" alt="not-so-ez" /> </p>
 
 - 🔭 I’m currently working on [nothinglolo](https://www.youtube.com/channel/UC2HFLq7QM6qbBZ8Q2wzWyBw)
@@ -41,7 +41,7 @@
   
 <!--blender--><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Casual-Programer&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Script-Generator&theme=dark)
 
-<!--stats--><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Casual-Programer&show_icons=true&locale=en&theme=dark" alt="Casual-Programer" /></p>
+<!--stats--><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Script-Generator&show_icons=true&locale=en&theme=dark" alt="Script-Generator" /></p>
 
